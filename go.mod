@@ -144,7 +144,7 @@ require (
 	github.com/sigstore/sigstore-go v0.6.2 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/theupdateframework/go-tuf/v2 v2.0.1 // indirect
-	github.com/ulikunitz/xz v0.5.12 // indirect
+	github.com/ulikunitz/xz v0.5.14 // indirect
 	github.com/urfave/cli v1.22.16 // indirect
 	github.com/urfave/cli/v2 v2.27.6 // indirect
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
